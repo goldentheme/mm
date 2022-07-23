@@ -450,13 +450,13 @@ h1.style2, h2.style2, h3.style2, p.style2 span.p:nth-child(n + 2) {
 	direction: var(--site-language-direction);
 	flex-grow: 1;
 	flex-shrink: 1;
-	text-align: left;
+	text-align: center;
 	width: 100%;
 }
 
 .buttons.style1 .button {
 	background-color: rgba(255,255,255,0.051);
-	color: #FFFFFF;
+	color: #101010;
 	background-image: linear-gradient(300deg, rgba(255,255,255,0.039) 0%, transparent 100%);
 	background-position: 0% 0%;
 	background-repeat: repeat;
